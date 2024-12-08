@@ -1,0 +1,40 @@
+﻿---
+ID: "06520da0-fef2-4f2a-b992-ce599c54227c"
+Parent: "22986088-b79d-4a0e-9e37-63350e19281d"
+Template: "22986088-b79d-4a0e-9e37-63350e19281d"
+Path: "/sitecore/templates/Project/skate-park-collection/Page/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {22986088-B79D-4A0E-9E37-63350E19281D}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241204T074042Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "7f543332-6e82-4dd0-bb8f-cb5f0048d7c5"
+      Hint: Title
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7792c2c-f73b-41f4-bb79-e0189035340a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241204T074048Z

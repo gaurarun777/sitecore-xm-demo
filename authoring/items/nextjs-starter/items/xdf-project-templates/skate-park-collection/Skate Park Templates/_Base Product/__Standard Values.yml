@@ -1,0 +1,45 @@
+﻿---
+ID: "125636fc-2368-4185-8982-7477647357d9"
+Parent: "9312e8d1-2fca-4219-9e1f-79ddd9be699a"
+Template: "9312e8d1-2fca-4219-9e1f-79ddd9be699a"
+Path: "/sitecore/templates/Project/skate-park-collection/Skate Park Templates/_Base Product/__Standard Values"
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{7F4C2E94-73A5-4125-9E36-1149DC07C96B}"
+- ID: "e1c75286-1eb3-498a-beaa-0376cbba01dc"
+  Hint: SKU
+  Value: $id
+Languages:
+- Language: en
+  Fields:
+  - ID: "ed5f4d43-2b18-4317-9538-dc8795d1c660"
+    Hint: Price
+    Value: $100
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241204T085541Z
+    - ID: "48cfe6da-0e86-4a3a-befc-5a22c16b341f"
+      Hint: Highlights
+      Value: Whether you&rsquo;re a beginner or a pro, this will work well for you.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "065fc058-7a98-4846-80ef-49add2422c7a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241204T103025Z

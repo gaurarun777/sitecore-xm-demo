@@ -1,0 +1,85 @@
+﻿---
+ID: "c8a927f1-9a47-4c4d-9e5d-10170a8a7844"
+Parent: "84d32b62-db64-4d32-a922-c90b858077e3"
+Template: "13f91cff-43ca-4405-87ea-6a67e3ab4c89"
+Path: "/sitecore/content/skate-park-collection/skate-park/Home/Inventory/Ordercloud9"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{7F4C2E94-73A5-4125-9E36-1149DC07C96B}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C9F37D9B-2B68-4ECC-A352-FA2A71DCFFAC}" />
+- ID: "e1c75286-1eb3-498a-beaa-0376cbba01dc"
+  Hint: SKU
+  Value: "{C8A927F1-9A47-4C4D-9E5D-10170A8A7844}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241204T095437Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ordercloud9
+    - ID: "6b5ee523-f039-4d69-8216-2a3ddb6a3936"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The Ordercloud9 is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the Ordercloud9 is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your Ordercloud9 today!<br />
+    - ID: "7f543332-6e82-4dd0-bb8f-cb5f0048d7c5"
+      Hint: Title
+      Value: Ordercloud9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ec83581-1590-4b75-8309-25af6c95a809"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241204T095437Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241204T103435Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F2D7B65A-FEC7-496F-AEE3-2CDF98F581A8}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ordercloud9
+    - ID: "6b5ee523-f039-4d69-8216-2a3ddb6a3936"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The Ordercloud9 is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the Ordercloud9 is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your Ordercloud9 today!<br />
+    - ID: "7f543332-6e82-4dd0-bb8f-cb5f0048d7c5"
+      Hint: Title
+      Value: Ordercloud9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a27e9fc-4180-4ec6-a4a2-c582a0194dc3"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20241204T103435Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241204T103448Z

@@ -1,0 +1,181 @@
+﻿---
+ID: "6757dfa3-3930-4fa4-9cad-7ce570464846"
+Parent: "c210c4ff-294b-4dc3-a413-7ff9a0c44e0d"
+Template: "22986088-b79d-4a0e-9e37-63350e19281d"
+Path: "/sitecore/content/skate-park-collection/skate-park/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{FC79DE30-73B4-4BA5-8D6B-EAAB9543D75B}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{BF81B4C0-3C7A-4394-B4D0-CD96D440C076}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b0896AFC4-7467-4334-A69B-8FFBF0EAFFDB%7d%7c%7b2D4909CB-B111-43B4-B0AB-B4B954294F2A%7d%7c%7b964614DD-D136-4CBE-9F10-0EE79CA3B282%7d%7c%7b247CEB19-B85D-4D82-A33B-BF48A1CDB2ED%7d%7c%7bFCA961C7-35E5-4B17-8F45-46FF6C0128BC%7d%7c%7b71D086CD-F44D-4DCD-9992-049832E3980A%7d%7c%7b9140158F-ED4E-496A-8A9B-ECB4E616ABF8%7d%7c%7b84F9A8B3-D2C5-4AF7-B734-411F717E2222%7d%7c%7bC5F0A8A3-6D7F-4B8C-9F92-C587843DD48A%7d%7c%7b19B68262-51DC-4BEC-B101-DDED3994C9AE%7d%7c%7bA774A25F-5D72-4CD6-8B42-4C499086D789%7d%7c%7b049A2926-50AD-45FC-8FD5-A75D22D048FC%7d%7c%7b624704E2-44A2-4845-A040-AD77E4BF1E19%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{D57F5D37-70EC-482F-9E19-EE6EEA5A0A38}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b5BDDFA58-AFFE-4886-9E94-B427F6A1A52F%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B708AA65-29DA-4F39-8CD5-0509FFCEDC2A}"
+              p:before="*"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B86B686E0-F105-46BD-93C3-9A1DCD73958F%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{BF81B4C0-3C7A-4394-B4D0-CD96D440C076}"
+              s:par="Styles=%7B0896AFC4-7467-4334-A69B-8FFBF0EAFFDB%7D%7C%7B2D4909CB-B111-43B4-B0AB-B4B954294F2A%7D%7C%7B964614DD-D136-4CBE-9F10-0EE79CA3B282%7D%7C%7B247CEB19-B85D-4D82-A33B-BF48A1CDB2ED%7D%7C%7BFCA961C7-35E5-4B17-8F45-46FF6C0128BC%7D%7C%7B71D086CD-F44D-4DCD-9992-049832E3980A%7D%7C%7B9140158F-ED4E-496A-8A9B-ECB4E616ABF8%7D%7C%7B84F9A8B3-D2C5-4AF7-B734-411F717E2222%7D%7C%7BC5F0A8A3-6D7F-4B8C-9F92-C587843DD48A%7D%7C%7B19B68262-51DC-4BEC-B101-DDED3994C9AE%7D%7C%7BA774A25F-5D72-4CD6-8B42-4C499086D789%7D%7C%7B049A2926-50AD-45FC-8FD5-A75D22D048FC%7D%7C%7B624704E2-44A2-4845-A040-AD77E4BF1E19%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{D57F5D37-70EC-482F-9E19-EE6EEA5A0A38}">
+              <p:d />
+            </r>
+            <r
+              uid="{16599075-4EE1-494E-9F99-45E84D2FC60B}"
+              p:after="r[@uid='{BF81B4C0-3C7A-4394-B4D0-CD96D440C076}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7BE29EC907-C3F7-4BC0-91AA-8B8B8EB876A4%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{57583C5F-2324-4B7D-A1BA-D9432C833A89}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7BE786DD79-98CA-45AA-ABD5-0CF3CE99B307%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241204T074111Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "6b5ee523-f039-4d69-8216-2a3ddb6a3936"
+      Hint: Content
+      Value: |
+        <p style="margin-left:0px;text-align:center;">Welcome to Skate Park by the Adventure Company. We supply skateboards, parts, and accessories to skate shops and boarders around the world. We are committed to providing our customers with high-quality products at competitive prices.</p><p style="margin-left:0px;text-align:center;">We offer a wide variety of products, including decks, wheels, trucks, bearings, and hardware. We also carry a variety of accessories, such as helmets, pads, and clothing.</p><p style="margin-left:0px;text-align:center;">We are passionate about skateboarding and believe that everyone should have the opportunity to experience the joy of skating.</p>
+    - ID: "7f543332-6e82-4dd0-bb8f-cb5f0048d7c5"
+      Hint: Title
+      Value: Skate Park by the Adventure Company
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf15f6e5-7641-427a-9aa8-25ec0aa8af5f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241204T084353Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B708AA65-29DA-4F39-8CD5-0509FFCEDC2A}"
+              p:before="*"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B86B686E0-F105-46BD-93C3-9A1DCD73958F%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{BF81B4C0-3C7A-4394-B4D0-CD96D440C076}"
+              s:par="Styles=%7B0896AFC4-7467-4334-A69B-8FFBF0EAFFDB%7D%7C%7B2D4909CB-B111-43B4-B0AB-B4B954294F2A%7D%7C%7B964614DD-D136-4CBE-9F10-0EE79CA3B282%7D%7C%7B247CEB19-B85D-4D82-A33B-BF48A1CDB2ED%7D%7C%7BFCA961C7-35E5-4B17-8F45-46FF6C0128BC%7D%7C%7B71D086CD-F44D-4DCD-9992-049832E3980A%7D%7C%7B9140158F-ED4E-496A-8A9B-ECB4E616ABF8%7D%7C%7B84F9A8B3-D2C5-4AF7-B734-411F717E2222%7D%7C%7BC5F0A8A3-6D7F-4B8C-9F92-C587843DD48A%7D%7C%7B19B68262-51DC-4BEC-B101-DDED3994C9AE%7D%7C%7BA774A25F-5D72-4CD6-8B42-4C499086D789%7D%7C%7B049A2926-50AD-45FC-8FD5-A75D22D048FC%7D%7C%7B624704E2-44A2-4845-A040-AD77E4BF1E19%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{D57F5D37-70EC-482F-9E19-EE6EEA5A0A38}">
+              <p:d />
+            </r>
+            <r
+              uid="{16599075-4EE1-494E-9F99-45E84D2FC60B}"
+              p:after="r[@uid='{BF81B4C0-3C7A-4394-B4D0-CD96D440C076}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7BE29EC907-C3F7-4BC0-91AA-8B8B8EB876A4%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{57583C5F-2324-4B7D-A1BA-D9432C833A89}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7BE786DD79-98CA-45AA-ABD5-0CF3CE99B307%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241204T074111Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "6b5ee523-f039-4d69-8216-2a3ddb6a3936"
+      Hint: Content
+      Value: |
+        <p style="margin-left:0px;text-align:center;">Welcome to Skate Park by the Adventure Company. We supply skateboards, parts, and accessories to skate shops and boarders around the world. We are committed to providing our customers with high-quality products at competitive prices.</p><p style="margin-left:0px;text-align:center;">We offer a wide variety of products, including decks, wheels, trucks, bearings, and hardware. We also carry a variety of accessories, such as helmets, pads, and clothing.</p><p style="margin-left:0px;text-align:center;">We are passionate about skateboarding and believe that everyone should have the opportunity to experience the joy of skating.</p>
+    - ID: "7f543332-6e82-4dd0-bb8f-cb5f0048d7c5"
+      Hint: Title
+      Value: Skate Park by the Adventure Company
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fdcdd89b-c985-4800-9c82-7b875b36b60b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241204T083957Z

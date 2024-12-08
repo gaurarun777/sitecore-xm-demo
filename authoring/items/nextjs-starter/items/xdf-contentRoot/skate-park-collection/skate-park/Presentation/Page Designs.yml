@@ -1,0 +1,68 @@
+﻿---
+ID: "671830af-c8ab-4bee-a149-569b5545b01c"
+Parent: "6b45c062-bd1a-4a51-be02-7386be1b7b5c"
+Template: "788207e3-a202-4ede-a8df-a771d1503849"
+Path: "/sitecore/content/skate-park-collection/skate-park/Presentation/Page Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b22986088-B79D-4A0E-9E37-63350E19281D%7d%3d%257B83671E97-0C57-47ED-9A48-179B71F4A7A6%257D%26%7b47A99A64-0DD0-4FAE-819D-72A177D99FAB%7d%3d%257B83671E97-0C57-47ED-9A48-179B71F4A7A6%257D%26%7b13F91CFF-43CA-4405-87EA-6A67E3AB4C89%7d%3d%257B4323C4D6-3BAE-4EB0-9925-45B987C55F60%257D%26%7bCBCE4404-C58A-41A9-AA86-FA253179CA7C%7d%3d%257B4323C4D6-3BAE-4EB0-9925-45B987C55F60%257D%26%7b03B317A4-6DD4-4C76-86CF-6FAAF9A6F236%7d%3d%257B4323C4D6-3BAE-4EB0-9925-45B987C55F60%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241204T074051Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4ca4b16-7543-4aa5-98b9-a1d4e55f4131"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241204T084400Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241204T074051Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "feee7c94-ddd7-4d6d-83bc-6b1755988f31"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241204T100647Z

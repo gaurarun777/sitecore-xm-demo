@@ -1,0 +1,43 @@
+﻿---
+ID: "c3267ed9-ce4e-471b-a73f-a7cf9433c80b"
+Parent: "84d32b62-db64-4d32-a922-c90b858077e3"
+Template: "13f91cff-43ca-4405-87ea-6a67e3ab4c89"
+Path: "/sitecore/content/skate-park-collection/skate-park/Home/Inventory/Skatecore XMC"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0BA92373-B3A4-4949-941E-3532B1261982}" />
+- ID: "e1c75286-1eb3-498a-beaa-0376cbba01dc"
+  Hint: SKU
+  Value: "{C3267ED9-CE4E-471B-A73F-A7CF9433C80B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241204T095451Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Skatecore XMC
+    - ID: "6b5ee523-f039-4d69-8216-2a3ddb6a3936"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The Skatecore XMC is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the Skatecore XMC is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your Skatecore XMC today!<br />
+    - ID: "7f543332-6e82-4dd0-bb8f-cb5f0048d7c5"
+      Hint: Title
+      Value: Skatecore XMC
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e06282d-77d2-48b9-841c-9653c8dbb4a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arunsharma23@deloitte.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241204T095451Z
